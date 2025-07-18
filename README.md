@@ -9,24 +9,18 @@
 <h3 align="center">AI Researcher & Data-Science Enthusiast specializing in Computer Vision, LLMs & Data Visualization</h3>
 
 <p align="center">
-  <a href="https://x.com/shihabReza3" target="_blank"><img src="https://img.shields.io/badge/X-@shihabReza3-1DA1F2?style=for-the-badge&logo=twitter" alt="X Badge"/></a>
-  <a href="https://www.linkedin.com/in/shihabrezaadit/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Md%20Shihab%20Reza-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/></a>
+  <a href="https://x.com/shihabReza3" target="_blank">
+    <img src="https://img.shields.io/badge/X-@shihabReza3-1DA1F2?style=for-the-badge&logo=twitter" alt="X Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shihabrezaadit/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Md%20Shihab%20Reza-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=7OiPbxwAAAAJ&hl=en&authuser=3" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Md%20Shihab%20Reza-4285F4?style=for-the-badge&logo=google-scholar" alt="Google Scholar Badge"/>
+  </a>
 </p>
-
 ---
 
-## 💡 About Me
-
-- 🔭 Current Roles:
-  - Volunteer Research Assistant @ **Vision & Analytics Lab**, University College Dublin
-  - Research Assistant @ **Design Inclusion & Access Lab (DIAL)**, North South University
-  - Trainee Data Scientist @ **Systech Datasoft Ltd.**
-- 🌱 Lifelong learner exploring AI/ML, XAI, and Federated Learning
-- 💬 Passionate about building data-driven solutions and visual narratives
-- ⚡ Fun fact: Coffee aficionado and coding fuel brewer
-- 📫 Reach me: **shihabreza.nsu@gmail.com**
-
----
 
 ## 💼 Expertise & Highlights
 
