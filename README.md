@@ -32,7 +32,7 @@
 
 ## 👨‍💻 About Me
 
-- Personal site & portfolio: [shihabreza.nsu](https://sites.google.com/view/shihabreza/home?authuser=1)
+- Personal site & portfolio: [My Website](https://sites.google.com/view/shihabreza/home?authuser=1)
 
 ---
 
