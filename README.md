@@ -37,17 +37,17 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="MS SQL" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40"/>
+  <img src="https://img.shields.io/badge/Power%20BI-%20?style=flat-square&logo=microsoft-power-bi" alt="Power BI" />&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-%20?style=flat-square&logo=tableau" alt="Tableau" />&nbsp;
+  <img src="https://img.shields.io/badge/Django-%20?style=flat-square&logo=django" alt="Django" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-%20?style=flat-square&logo=mysql" alt="MySQL" />&nbsp;
+  <img src="https://img.shields.io/badge/MS%20SQL-%20?style=flat-square&logo=microsoft-sql-server" alt="MS SQL" />&nbsp;
+  <img src="https://img.shields.io/badge/SQLite-%20?style=flat-square&logo=sqlite" alt="SQLite" />&nbsp;
+  <img src="https://img.shields.io/badge/OpenCV-%20?style=flat-square&logo=opencv" alt="OpenCV" />&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-%20?style=flat-square&logo=pytorch" alt="PyTorch" />&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-%20?style=flat-square&logo=tensorflow" alt="TensorFlow" />&nbsp;
+  <img src="https://img.shields.io/badge/Scikit--learn-%20?style=flat-square&logo=scikit-learn" alt="Scikit‑learn" />
 </p>
----
+
 
 
