@@ -22,9 +22,17 @@
 
 ## 💼 Current Roles
 
-- **Volunteer Research Assistant** @ Vision & Analytics Lab, University College Dublin  
-- **Research Assistant** @ [Design Inclusion & Access Lab (DIAL), North South University](https://sites.google.com/view/nsuhci/home)  
-- **Trainee Data Scientist** @ Systech Datasoft Ltd.
+- **Volunteer Research Assistant**  
+  [Vision & Analytics Lab (THEIA)](https://soumyabrata.dev/theia/), [University College Dublin (UCD)](https://www.ucd.ie/)
+
+- **Research Assistant**  
+  [Design Inclusion & Access Lab (DIAL)](https://sites.google.com/view/nsuhci/home), [North South University (NSU)](https://www.northsouth.edu/)
+
+## 💼 Previous Roles
+
+- **Trainee Data Scientist**  
+  Systech Datasoft Ltd.
+
 
 ---
 
