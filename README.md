@@ -56,12 +56,6 @@
 
 ---
 
-## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shihabreza&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="160"/>
-</p>
-
----
 
 <p align="center">_"Continuous improvement is better than delayed perfection."_</p>
