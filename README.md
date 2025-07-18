@@ -9,7 +9,6 @@
 <h3 align="center">AI Researcher & Data-Science Enthusiast specializing in Computer Vision, LLMs & Data Visualization</h3>
 
 <p align="center">
-  <a href="https://github.com/shihabreza" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?style=for-the-badge&logo=github" alt="GitHub Badge"/></a>
   <a href="https://x.com/shihabReza3" target="_blank"><img src="https://img.shields.io/badge/X-@shihabReza3-1DA1F2?style=for-the-badge&logo=twitter" alt="X Badge"/></a>
   <a href="https://www.linkedin.com/in/shihabrezaadit/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Md%20Shihab%20Reza-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/></a>
 </p>
