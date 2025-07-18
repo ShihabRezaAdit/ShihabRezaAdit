@@ -51,6 +51,3 @@
 ---
 
 
-
-
-<p align="center">_"Continuous improvement is better than delayed perfection."_</p>
